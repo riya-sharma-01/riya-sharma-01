@@ -28,7 +28,7 @@ I enjoy building practical projects, analyzing data, and learning how technology
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Data Science
+### Data Science & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -40,6 +40,7 @@ I enjoy building practical projects, analyzing data, and learning how technology
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -47,7 +48,7 @@ I enjoy building practical projects, analyzing data, and learning how technology
 
 ### 📊 Smart Expense Tracker
 
-A personalized expense management web application built to practice frontend development and create a user-focused product.
+A personalized expense management web application focused on tracking spending, managing budgets, and creating a user-friendly experience.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -63,33 +64,24 @@ A data analysis project exploring Netflix content trends through data cleaning, 
 
 ### 📈 Job Market Dashboard
 
-A data visualization project focused on understanding job market trends and presenting insights from data.
+A data visualization project focused on analyzing job market trends and presenting insights from data.
 
 **Tech:** Data Analysis • Visualization
-
----
-
-## 🎯 Goals
-
-✨ Build meaningful Data Science & AI projects  
-✨ Strengthen programming fundamentals  
-✨ Explore Machine Learning and automation  
-✨ Improve problem-solving through consistent practice  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-sharma-01&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-sharma-01&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
