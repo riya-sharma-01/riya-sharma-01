@@ -78,5 +78,12 @@ A data visualization project focused on analyzing job market trends and presenti
 </p>
 
 ---
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg" />
+</p>
 
 ✨ Learning. Building. Improving.
