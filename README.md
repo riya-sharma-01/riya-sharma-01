@@ -23,23 +23,26 @@ Currently strengthening my foundation in:
 ## ⚙️ Tools & Technologies
 
 ### Programming
-- Python
-- JavaScript
-- SQL
-- HTML & CSS
+
+Python  
+JavaScript  
+SQL  
+HTML & CSS  
 
 ### Data Science & Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
 
 ### Development Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Docker
+
+Git  
+GitHub  
+VS Code  
+Jupyter Notebook  
+Docker  
 
 ---
 
@@ -67,7 +70,7 @@ A data visualization project focused on analyzing job market trends and presenti
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=tokyonight" />
@@ -78,12 +81,13 @@ A data visualization project focused on analyzing job market trends and presenti
 </p>
 
 ---
----
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg" />
 </p>
+
+---
 
 ✨ Learning. Building. Improving.
