@@ -2,75 +2,72 @@
 
 🎓 B.Sc. Data Science & AI Student
 
-💡 Exploring data, programming, and intelligent systems.
+I am exploring the world of data, technology, and intelligent systems through hands-on projects and continuous learning.
 
-I enjoy building practical projects, analyzing data, and learning how technology can solve real-world problems.
+I enjoy transforming ideas into practical solutions and understanding how data can create meaningful insights.
 
 ---
 
-## 🌱 Currently Exploring
+## 📚 Learning Journey
+
+Currently building my foundation in:
 
 🐍 Python Programming  
 📊 Data Analysis & Visualization  
+🗄️ SQL & Databases  
 🧠 Machine Learning Fundamentals  
-🗄️ SQL & Database Concepts  
-🔧 Git, GitHub & Developer Workflows  
+🔧 Git & GitHub Workflow  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tools & Technologies
 
-### Languages
+**Programming**
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Data & Visualization**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-### Data Science & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Development Tools**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Docker
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Projects
 
 ### 📊 Smart Expense Tracker
 
-A personalized expense management web application focused on tracking spending, managing budgets, and creating a user-friendly experience.
+A web application designed to manage expenses and explore the process of building a practical user-focused product.
 
-**Tech:** HTML • CSS • JavaScript
+**Built with:** HTML • CSS • JavaScript
 
----
 
 ### 🎬 Netflix Data Analysis
 
-A data analysis project exploring Netflix content trends through data cleaning, analysis, and visualization.
+An exploratory data analysis project focused on discovering patterns and insights from Netflix content data.
 
-**Tech:** Python • Pandas • NumPy • Matplotlib
+**Built with:** Python • Pandas • NumPy • Matplotlib
 
----
 
 ### 📈 Job Market Dashboard
 
-A data visualization project focused on analyzing job market trends and presenting insights from data.
+A data visualization project created to analyze job market trends and present information through meaningful visuals.
 
-**Tech:** Data Analysis • Visualization
+**Built with:** Data Analysis • Visualization
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=tokyonight" />
@@ -80,10 +77,14 @@ A data visualization project focused on analyzing job market trends and presenti
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-sharma-01&theme=tokyonight" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-⭐ Always learning, building, and improving.
+✨ Learning. Building. Improving.
