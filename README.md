@@ -46,7 +46,7 @@ Currently strengthening my foundation in:
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
 ### 💰 FinSight
 
@@ -58,7 +58,7 @@ A modern personal finance dashboard designed to help users track expenses, manag
 
 ### 🎬 Netflix Data Analysis
 
-An exploratory data analysis project focused on discovering trends and insights from Netflix content using data cleaning and visualization techniques.
+An exploratory data analysis project focused on discovering trends and insights from Netflix content using Python.
 
 **Built with:** Python • Pandas • NumPy • Matplotlib
 
@@ -72,24 +72,10 @@ A data visualization project focused on analyzing job market trends and presenti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/>
-
-  <img height="170" src="https://streak-stats.demolab.com?user=riya-sharma-01&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
-</p>
-
----
-
 ## 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
