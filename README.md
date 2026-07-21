@@ -1,6 +1,6 @@
 # Hi, I'm Riya Sharma 👋
 
-🎓 B.Sc. Data Science & AI Student
+🎓 **B.Sc. Data Science & AI Student**
 
 I am exploring the world of data, programming, and intelligent systems through hands-on projects and continuous learning.
 
@@ -12,59 +12,61 @@ I enjoy building practical applications, analyzing data, and understanding how t
 
 Currently strengthening my foundation in:
 
-🐍 Python Programming  
-📊 Data Analysis & Visualization  
-🗄️ SQL & Database Concepts  
-🧠 Machine Learning Fundamentals  
-🔧 Git & GitHub Workflow  
+- 🐍 Python Programming
+- 📊 Data Analysis & Visualization
+- 🗄️ SQL & Database Concepts
+- 🧠 Machine Learning Fundamentals
+- 🔧 Git & GitHub Workflow
 
 ---
 
 ## ⚙️ Tools & Technologies
 
-### Programming
+### 💻 Programming
 
-Python  
-JavaScript  
-SQL  
-HTML & CSS  
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
 
-### Data Science & Analytics
+### 📊 Data Science & Analytics
 
-Pandas  
-NumPy  
-Matplotlib  
-Seaborn  
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-### Development Tools
+### 🛠️ Development Tools
 
-Git  
-GitHub  
-VS Code  
-Jupyter Notebook  
-Docker  
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Docker
 
 ---
 
-## 💻 Projects
+## 💼 Projects
 
-### 📊 Smart Expense Tracker
+### 💰 FinSight
 
-A web application focused on expense management, budgeting, and creating a simple user-friendly experience.
+A modern personal finance dashboard designed to help users track expenses, manage budgets, and visualize spending patterns through a clean and interactive interface.
 
 **Built with:** HTML • CSS • JavaScript
 
+---
 
 ### 🎬 Netflix Data Analysis
 
-An exploratory data analysis project focused on understanding Netflix content trends through data cleaning and visualization.
+An exploratory data analysis project focused on discovering trends and insights from Netflix content using data cleaning and visualization techniques.
 
 **Built with:** Python • Pandas • NumPy • Matplotlib
 
+---
 
 ### 📈 Job Market Dashboard
 
-A data visualization project focused on analyzing job market trends and presenting insights from data.
+A data visualization project focused on analyzing job market trends and presenting meaningful insights from data.
 
 **Built with:** Data Analysis • Visualization
 
@@ -73,11 +75,13 @@ A data visualization project focused on analyzing job market trends and presenti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=riya-sharma-01&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-sharma-01&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
 </p>
 
 ---
@@ -85,9 +89,9 @@ A data visualization project focused on analyzing job market trends and presenti
 ## 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-✨ Learning. Building. Improving.
+✨ **Learning. Building. Improving.**
