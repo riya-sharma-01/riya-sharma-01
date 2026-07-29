@@ -33,15 +33,10 @@ Currently, I'm strengthening my foundations while building projects that emphasi
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya-sharma-01&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya-sharma-01&theme=github-compact&hide_border=true" alt="Riya's Contribution Graph" />
 </p>
 
 ---
