@@ -36,20 +36,12 @@ Currently, I'm strengthening my foundations while building projects that emphasi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya-sharma-01&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
