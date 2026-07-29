@@ -1,12 +1,12 @@
 # Hi, I'm Riya Sharma 👋
 
-🎓 **B.Sc. Data Science & AI Student**
+### Building thoughtful software with Python, Data Science & AI.
 
-I am exploring the world of data, programming, and intelligent systems through hands-on projects and continuous learning.
+I'm a first-year B.Sc. Data Science & Artificial Intelligence student who enjoys turning ideas into practical software.
 
-I enjoy building practical applications, analyzing data, and understanding how technology can solve real-world problems.
+My interests lie at the intersection of software engineering, data, AI, and product design. I enjoy building applications that are not only functional but also thoughtfully designed and well documented.
 
----
+Currently, I'm focused on strengthening my foundations while creating projects that solve real-world problems and reflect continuous learning.
 
 ## 📚 Learning Journey
 
