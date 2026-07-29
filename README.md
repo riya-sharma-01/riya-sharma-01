@@ -2,82 +2,58 @@
 
 ### Building thoughtful software with Python, Data Science & AI.
 
-I'm a first-year B.Sc. Data Science & Artificial Intelligence student who enjoys turning ideas into practical software.
+I'm a B.Sc. Data Science & Artificial Intelligence student who enjoys turning ideas into practical software.
 
 My interests lie at the intersection of software engineering, data, AI, and product design. I enjoy building applications that are not only functional but also thoughtfully designed and well documented.
 
-Currently, I'm focused on strengthening my foundations while creating projects that solve real-world problems and reflect continuous learning.
-
-## 📚 Learning Journey
-
-Currently strengthening my foundation in:
-
-- 🐍 Python Programming
-- 📊 Data Analysis & Visualization
-- 🗄️ SQL & Database Concepts
-- 🧠 Machine Learning Fundamentals
-- 🔧 Git & GitHub Workflow
+Currently, I'm strengthening my foundations while building projects that emphasize clean engineering, thoughtful design, and continuous learning.
 
 ---
 
-## ⚙️ Tools & Technologies
+## ⚡ Tech Stack
 
-### 💻 Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github,vscode,docker" />
+</p>
 
-- Python
-- JavaScript
-- SQL
-- HTML & CSS
-
-### 📊 Data Science & Analytics
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-### 🛠️ Development Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Docker
-
----
-
-## 💼 Featured Projects
-
-### 💰 FinSight
-
-A modern personal finance dashboard designed to help users track expenses, manage budgets, and visualize spending patterns through a clean and interactive interface.
-
-**Built with:** HTML • CSS • JavaScript
-
----
-
-### 🎬 Netflix Data Analysis
-
-An exploratory data analysis project focused on discovering trends and insights from Netflix content using Python.
-
-**Built with:** Python • Pandas • NumPy • Matplotlib
-
----
-
-### 📈 Job Market Dashboard
-
-A data visualization project focused on analyzing job market trends and presenting meaningful insights from data.
-
-**Built with:** Data Analysis • Visualization
-
----
-
-## 🐍 GitHub Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,jupyter" />
 </p>
 
 ---
 
-✨ **Learning. Building. Improving.**
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚗 **ParkPilot** | Intelligent Parking Operations Platform *(Coming Soon)* |
+| 🌸 **Everloom** | Keep what matters. *(In Development)* |
+| 💰 **FinSight** | Personal Finance Dashboard |
+| 📊 **Netflix Data Analysis** | Exploratory Data Analysis & Visualization |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riya-sharma-01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-sharma-01&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya-sharma-01&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>Learning. Building. Improving.</i>
+</p>
