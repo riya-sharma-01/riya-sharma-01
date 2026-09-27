@@ -26,8 +26,7 @@ Currently, I'm strengthening my foundations while building projects that emphasi
 
 | Project | Description |
 |---------|-------------|
-| 🚗 **ParkPilot** | Intelligent Parking Operations Platform *(Coming Soon)* |
-| 🌸 **Everloom** | Keep what matters. *(In Development)* |
+| 🚗 **ParkPilot** | Intelligent Parking Operations Platform *(In Development)* |
 | 💰 **FinSight** | Personal Finance Dashboard |
 | 📊 **Netflix Data Analysis** | Exploratory Data Analysis & Visualization |
 
@@ -36,7 +35,11 @@ Currently, I'm strengthening my foundations while building projects that emphasi
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya-sharma-01&theme=github-compact&hide_border=true" alt="Riya's Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg">
+    <img alt="Riya's GitHub contribution activity" src="https://raw.githubusercontent.com/riya-sharma-01/riya-sharma-01/main/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
