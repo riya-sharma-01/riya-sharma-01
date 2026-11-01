@@ -2,7 +2,7 @@
 
 ### Building thoughtful software with Python, Data Science & AI.
 
-I'm a B.Sc. Data Science & Artificial Intelligence student who enjoys turning ideas into practical software.
+I'm a B.Sc. Data Science student who enjoys turning ideas into practical software.
 
 My interests lie at the intersection of software engineering, data, AI, and product design. I enjoy building applications that are not only functional but also thoughtfully designed and well documented.
 
