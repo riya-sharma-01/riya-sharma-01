@@ -22,15 +22,6 @@ Currently, I'm strengthening my foundations while building projects that emphasi
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚗 **ParkPilot** | Intelligent Parking Operations Platform *(In Development)* |
-| 💰 **FinSight** | Personal Finance Dashboard |
-| 📊 **Netflix Data Analysis** | Exploratory Data Analysis & Visualization |
-
----
 
 ## 📈 Contribution Activity
 
